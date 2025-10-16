@@ -50,6 +50,17 @@ Open your browser to **http://localhost:5173**
 - Server connected to the `bd` CLI in your current directory
 - File watcher monitoring `.beads/issues.jsonl` for external changes
 
+## Screenshots
+
+### Issue List View
+![Issue List with sortable columns](list-view.png)
+
+### Kanban Board
+![Drag-and-drop Kanban board](kanban.png)
+
+### Dependency Graph
+![Interactive dependency visualization](graph.png)
+
 ## Features
 
 ### 📋 Multiple Views
